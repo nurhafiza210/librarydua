@@ -1,0 +1,14 @@
+{
+    "name": "nurhafiza/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nurhafiza210",
+            "email": "nurhafiza364@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
